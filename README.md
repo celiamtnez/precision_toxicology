@@ -37,12 +37,12 @@ Additional filtering: after normalization, cells with more than 20,000 normalize
 
 4. Downstream analysis
 
-    Visualisation, clustering and differential expression analysis was done using scanpy functions \\
-    Analysis of the 4 human donors separately to find similar hepatocyte subgroups in all donors \\
-    Cluster annotation based on differential expression and marker genes \\
-    Gene ontology analysis using gprofiler and ShinyGO \\
-    Gene set enrichment analysis using gseapy \\
-    Calculation of transcriptional variability per subgroup and treatment condition by using the coefficient of variation calculated on log-transformed data \\
-    Comparison to in vivo data sets from Aizarani et al., 2019 and MacParland et al., 2018 \\
+    Visualisation, clustering and differential expression analysis was done using scanpy functions      
+    Analysis of the 4 human donors separately to find similar hepatocyte subgroups in all donors      
+    Cluster annotation based on differential expression and marker genes      
+    Gene ontology analysis using gprofiler and ShinyGO      
+    Gene set enrichment analysis using gseapy      
+    Calculation of transcriptional variability per subgroup and treatment condition by using the coefficient of variation calculated on log-transformed data  
+    Comparison to in vivo data sets from Aizarani et al., 2019 and MacParland et al., 2018  
     Custom code for further visualization
 
