@@ -10,10 +10,10 @@ Therefore, we here use single-cell RNA sequencing on PHHs from four human donors
 
 Data accessibility
 
-The raw RNA data can be found at: https://www.ebi.ac.uk/arrayexpress/experiments/E-MTAB-11530
-The raw ATAC data is available at: https://www.ebi.ac.uk/biostudies/studies/S-BSST1024
-
-In vivo data from Aizarani et al. is from https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE124395
+The raw RNA data can be found at: https://www.ebi.ac.uk/arrayexpress/experiments/E-MTAB-11530 
+The raw ATAC data is available at: https://www.ebi.ac.uk/biostudies/studies/S-BSST1024 
+ 
+In vivo data from Aizarani et al. is from https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE124395 
 In vivo data from MacParland et al. is from https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE115469
 
 Preprocessing
@@ -49,6 +49,6 @@ Additional filtering: after normalization, cells with more than 20,000 normalize
     Gene set enrichment analysis using gseapy      
     Calculation of transcriptional variability per subgroup and treatment condition by using the coefficient of variation calculated on log-transformed data  
     Comparison to in vivo data sets from Aizarani et al., 2019 and MacParland et al., 2018  
-    Zonation markers are taken from the Supplementary Material of Aizarani et al., 2019
+    Zonation markers are taken from the Supplementary Material of Aizarani et al., 2019 
     Custom code for further visualization
 
